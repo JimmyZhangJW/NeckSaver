@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "haha(new).data.unityweb",
+"asmCodeUrl": "haha(new).asm.code.unityweb",
+"asmMemoryUrl": "haha(new).asm.memory.unityweb",
+"asmFrameworkUrl": "haha(new).asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
